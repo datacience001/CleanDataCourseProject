@@ -20,9 +20,15 @@
 **X_train.txt				
 **activity_labels.txt		
 **y_test.txt
+
 **features.txt				
+
 **y_train.txt
+
 **subject_test.txt
 
-* All the data should be downloaded from the course project assignment details
+* Data should be downloaded from the link provided at the course project assignment details section of the course
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+* Please see the codebook for the variable details 
