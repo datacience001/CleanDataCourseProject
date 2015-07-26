@@ -3,6 +3,7 @@
 # Content Details
 * This Repository has run_analyis.R file, which is runnable.
 * This Performs following course project tasks
+
 **Merges the training and the test sets to create one data set.
 **Extracts only the measurements on the mean and standard deviation for each measurement. 
 **Uses descriptive activity names to name the activities in the data set
